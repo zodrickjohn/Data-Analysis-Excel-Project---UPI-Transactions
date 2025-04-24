@@ -41,3 +41,4 @@ This project analyzes **UPI (Unified Payments Interface)** transaction data usin
 
 ---
 
+[Click to view Project Video / Linkdin Post](https://www.linkedin.com/posts/zodrick-john-1689a8256_exceldashboard-upianalysis-fintech-activity-7321164166612869122-hMrc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8mrOABsUmTOAKWlhdQdbjigs27IxTaqzA)
