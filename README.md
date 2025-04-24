@@ -6,7 +6,7 @@ This project analyzes **UPI (Unified Payments Interface)** transaction data usin
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)  
+![Dashboard Screenshot](UPI_transaction_dashboard.png)  
 *Sample view of the Excel Dashboard with slicers and charts*
 
 
